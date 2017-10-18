@@ -1,4 +1,4 @@
-# unicornhat-cpu-stats
+# pimoroni-cpu-stats
 
 Using Pimoroni's Unicorn HAT or Blinkt to show a simple colour gradient based on the CPU usage.
 
